@@ -24,6 +24,10 @@ Clone the repository:
 
 bash
 Copy code
+
+Project Status:
+This is the initial stage of the project. I will be updating it into a fully functional website intended for a blood donation organization. The project will include features for managing blood donations, donor registration, and connecting with blood banks. Further updates will include website development, cloud deployment, and additional functionalities to enhance user experience.
+
 git clone <repo-url>
 cd BloodBridge
 Place your donors.csv file in the root directory. Ensure it has the following columns:
